@@ -7,3 +7,5 @@ matplotlib
 streamlit
 ipykernel
 seaborn
+keras
+scikeras
